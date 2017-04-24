@@ -1,6 +1,5 @@
 # RAC
-[博客地址](http://shuaiwang007.github.io/2016/04/21/RAC-MVVM在实际项目中的用法/)
-
+[博客地址跳转](http://shuaiwang007.github.io/2016/04/21/RAC-MVVM在实际项目中的用法/)
 ### RAC+MVVM在实际项目中用法
 #### RAC在iOS的实际开发中确实是一件有力的武器，此文将从以下几方面讲解
 >
